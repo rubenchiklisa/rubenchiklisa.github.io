@@ -1,0 +1,65 @@
+body {
+    margin: 1;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 17px;
+    color: black;
+    line-height: 1.6;
+}
+
+
+*,
+*:before,
+*:after {
+    box-sizing: border-box;
+}
+
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.starterr{
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;}
+
+
+
+
+.title:after {
+    
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color:darkblue;
+    margin: 10px auto 0;
+}
+
+
+.section_text{
+    font-size: 20px;
+}
+
+
+
+
+h2 { margin-top: 1px;
+    text-align: center;}
+.img {text-align: center;}
+
+
+.d {text-align: center;}
+
+h3 { margin-top: 1px;
+    text-align: center;
+font-size: 27px;}
+
+
+
+.i {text-align: center;}
+
+.spr {text-align: right;}
