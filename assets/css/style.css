@@ -1,0 +1,89 @@
+body {
+    margin: 1;
+    font-family: 'Roboto Slab', sans-serif;
+    font-size: 17px;
+    color: black;
+    line-height: 1.6;
+}
+
+{
+    box-sizing: border-box;
+}
+
+
+.fon {
+    height: 70vh;
+    background-color:beige;}
+    
+
+.img {text-align: center;}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.starterr{
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;}
+
+
+
+
+.title:after {
+    
+    content: "";
+    display: block;
+    width: 60px;
+    height: 3px;
+    background-color:darkred;
+    margin: 10px auto 0;
+}
+
+
+.section_text{
+    font-size: 22px;
+}
+
+
+.section {padding: 130px 0;}
+.mic {padding-left: 0;}
+
+
+.mic_item {padding-left: 170px;
+position: relative;}
+    
+
+.mic_photo{
+    border: 2px;
+        position: absolute;
+        top: 0;
+    left: 0;
+    z-index: 1;
+    }
+
+.mic_text{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+   margin-bottom: 5px;
+}
+
+
+.mic_author {font-size: 22px;
+font-style: italic;}
+
+
+
+
+
+
+
+
+
+
+
+
