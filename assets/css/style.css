@@ -12,10 +12,15 @@ body {
 
 
 .fon {
-    height: 650px;
+    height: 670px;
     max-height: 850px;
     background-color:aliceblue;}
-    
+.fon1 {
+    height: 1770px;
+    max-height: 2050px;
+    background-color:aliceblue;}
+  
+
 
 .img {text-align: center;}
 
@@ -51,7 +56,8 @@ body {
 
 
 .section {padding: 110px 0;
-height: 1px;}
+height: 1px;
+padding-bottom: 70px;}
 .mic {padding-left: 0;
     background-color: lavender;
 }
@@ -82,12 +88,61 @@ font-style: italic;}
 
 
 
+h2 { margin-top: 1px;
+    text-align: center;
+font-size: 31px;}
+
+.j { height: 850px;
+    max-height: 1050px;
+    background-color:white;}
+
+.img {text-align: center;}
+
+.photo{text-align: center;
+}
+
+h3 { margin-top: 1px;
+    text-align: center;
+font-size: 31px;}
+h4, h5 { margin-top: 1px;
+    text-align: center;
+font-size: 31px;}
+  .fon2 {
+    height: 1370px;
+    max-height: 1550px;
+    background-color:aliceblue;}
 
 
+.mic1 {
+    padding-left: 0;
+    background-color: lavender;
+}
+.mic_item1 {padding-left: 170px;
+position: relative;}
+    
+
+.mic_photo1{
+    border: 2px;
+        position: absolute;
+        top: 0;
+    left: 0;
+    z-index: 1;
+    }
+
+.mic_text1{
+    font-size: 24px;
+    font-style: italic;
+    font-weight: 300;
+   margin-bottom: 5px;
+}
 
 
+.fon3 {
+    height: 950px;
+    max-height: 980px;
+    background-color:aliceblue;}
+  
 
 
-
-
+.spr {text-align: right;}
 
